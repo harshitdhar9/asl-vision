@@ -15,10 +15,12 @@ To get started with this project, you'll need Python 3.x and some libraries. Fol
    git clone https://github.com/yourusername/asl-vision.git
    cd asl-vision
 
+```
 python -m venv asl_env
 source asl_env/bin/activate  # For Windows: .\asl_env\Scripts\activate
 
 pip install -r requirements.txt
 
 streamlit run app.py
+```
 
