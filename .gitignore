@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+asl_env/
+env/
+ENV/
+.venv/
+
+build/
+dist/
+*.egg-info/
+*.log
+
+# Streamlit specific
+.streamlit/config.toml
+.streamlit/*.toml
+
+# TensorFlow checkoints
+checkpoint/
+*.ckpt
+*.pb
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Environment files
+.env
+*.env
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+saved_models(h5)/
