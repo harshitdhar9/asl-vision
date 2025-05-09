@@ -24,5 +24,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ## Link to Kaggle:
-
-## https://www.kaggle.com/discussions/accomplishments/578233
+- https://www.kaggle.com/discussions/accomplishments/578233
